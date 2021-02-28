@@ -1,5 +1,5 @@
 # npm
-node_module/
+node_modules/
 
 # Gatsby
 .cache/
