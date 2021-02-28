@@ -1,0 +1,6 @@
+# npm
+node_module/
+
+# Gatsby
+.cache/
+public/
